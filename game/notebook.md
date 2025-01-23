@@ -16,3 +16,4 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 
 Pista 1 en la mansion dice que vaya a la cocina escuela
+Pista 2 ir al cafe en la shop
